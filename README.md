@@ -1,0 +1,14 @@
+Django==4.2.0
+djangorestframework==3.14.0
+django-cors-headers==4.0.0
+psycopg2-binary==2.9.6
+python-dotenv==1.0.0
+PyJWT==2.8.0
+djangorestframework-simplejwt==5.2.2
+Pillow==9.5.0
+celery==5.3.0
+redis==4.5.5
+requests==2.31.0
+django-filter==23.1
+python-dateutil==2.8.2
+gunicorn==20.1.0
