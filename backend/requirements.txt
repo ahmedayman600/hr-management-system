@@ -1,0 +1,1 @@
+Django==4.2.0\ndjangorestframework==3.14.0\ndjango-cors-headers==4.0.0\npsycopg2-binary==2.9.6\npython-dotenv==1.0.0\nPyJWT==2.8.0\ndjangorestframework-simplejwt==5.2.2\nPillow==9.5.0\ncelery==5.3.0\nredis==4.5.5\nrequests==2.31.0\ndjango-filter==23.1\npython-dateutil==2.8.2\ngunicorn==20.1.0
