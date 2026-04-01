@@ -1,0 +1,5 @@
+Django
+Django REST framework
+psycopg2
+celery
+biometric-library
